@@ -1,2 +1,2 @@
 # muserrs
-MUS format errors
+Contains invalid format and validation errors.
