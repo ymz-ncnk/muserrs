@@ -1,2 +1,2 @@
-# MusErrs
+# [Deprecated] MusErrs
 Contains MUS format errors.
